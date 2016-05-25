@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.3\78054a81e63d50b73e0cb00e4ba01bb54f9be94f\gdx-backend-android-1.6.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78054a81e63d50b73e0cb00e4ba01bb54f9be94f">
+        <dex dex="C:\Users\Lenovo\Documents\App Development\Projects\Paperscape\android\build\intermediates\pre-dexed\release\gdx-backend-android-1.6.3-f391cd4c9d6db2706a57d75137cee72fc99860c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.3\82ff2ee784275ae5f49ac942a593c5248b80881b\gdx-box2d-1.6.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82ff2ee784275ae5f49ac942a593c5248b80881b">
+        <dex dex="C:\Users\Lenovo\Documents\App Development\Projects\Paperscape\android\build\intermediates\pre-dexed\release\gdx-box2d-1.6.3-4d80bccd4e0a6f759258b1d751ba9408cb30063e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\Documents\App Development\Projects\Paperscape\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="025691accaaac6f8383db5d4e9f8f362ae2fe3c2">
+        <dex dex="C:\Users\Lenovo\Documents\App Development\Projects\Paperscape\android\build\intermediates\pre-dexed\release\core-1.0-ef21828c4b2a4cb7c667aaa4122d74c0e71aec74.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.3\f5848caaa3edeedce92361c61c716a1cb33587f\gdx-1.6.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f5848caaa3edeedce92361c61c716a1cb33587f">
+        <dex dex="C:\Users\Lenovo\Documents\App Development\Projects\Paperscape\android\build\intermediates\pre-dexed\release\gdx-1.6.3-48a65ac0e7e2db7cba2f214e68c35beeca938faa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.3\e829c3543ab5a6b3ff818615a8620024f6a14fe0\box2dlights-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e829c3543ab5a6b3ff818615a8620024f6a14fe0">
+        <dex dex="C:\Users\Lenovo\Documents\App Development\Projects\Paperscape\android\build\intermediates\pre-dexed\debug\box2dlights-1.3-b8c67460fe3b3f6faf307352935687e688cb5a84.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.6.3\7130eb6af322f824c348462295c14d43106f3d1c\gdx-freetype-1.6.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7130eb6af322f824c348462295c14d43106f3d1c">
+        <dex dex="C:\Users\Lenovo\Documents\App Development\Projects\Paperscape\android\build\intermediates\pre-dexed\release\gdx-freetype-1.6.3-67d4305b0cb71c9b8ecec198c557aa725ba151d2.jar" />
+    </item>
+
+</items>
